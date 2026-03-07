@@ -1,4 +1,4 @@
-#Description: TaskPY200_T3: 
+# Description: TaskPY200_T3: 
 # Write program to calcite Electricity Bill Slabs. 
 # User enters a bill unit and gets the total bill according to following logic. 
 # Input: units Rates: • 
